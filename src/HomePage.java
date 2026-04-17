@@ -20,12 +20,12 @@ public class HomePage extends JFrame{
     
     
 
- ImageIcon i2 = new ImageIcon("noodles.png");
+ ImageIcon i2 = new ImageIcon("images/noodles.png");
    		
-    ImageIcon i3 = new ImageIcon("cake.png");
- ImageIcon i4 = new ImageIcon("juice.png");
-    ImageIcon i5 = new ImageIcon("fruit.png");
-    ImageIcon i6 = new ImageIcon("sweet.png");
+    ImageIcon i3 = new ImageIcon("images/cake.png");
+ ImageIcon i4 = new ImageIcon("images/juice.png");
+    ImageIcon i5 = new ImageIcon("images/fruit.png");
+    ImageIcon i6 = new ImageIcon("images/sweet.png");
 
   
 
