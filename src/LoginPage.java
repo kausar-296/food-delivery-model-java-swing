@@ -17,7 +17,7 @@ public class LoginPage extends JFrame{
     TextField t1,t2;
     Button b1,b2;
 
-	 ImageIcon i1 = new ImageIcon("stanley.png");
+	 ImageIcon i1 = new ImageIcon("images/stanley.png");
 	JLabel I1 = new JLabel(i1);
 
 
