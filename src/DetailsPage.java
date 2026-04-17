@@ -63,34 +63,34 @@ for(int i=1;i<=6;i++)
         ImageIcon itemImage = null;
 
         if(preference==1){ // Noodles
-            if(opt==1) itemImage = new ImageIcon("d1.png");
-            else if(opt==2) itemImage = new ImageIcon("d2.png");
-            else if(opt==3) itemImage = new ImageIcon("d3.png");
-            else itemImage = new ImageIcon("d4.png");
+            if(opt==1) itemImage = new ImageIcon("images/d1.png");
+            else if(opt==2) itemImage = new ImageIcon("images/d2.png");
+            else if(opt==3) itemImage = new ImageIcon("images/d3.png");
+            else itemImage = new ImageIcon("images/d4.png");
         }
         else if(preference==2){ // Cakes
-            if(opt==1) itemImage = new ImageIcon("e1.png");
-            else if(opt==2) itemImage = new ImageIcon("e2.png");
-            else if(opt==3) itemImage = new ImageIcon("e3.png");
-            else itemImage = new ImageIcon("e4.png");
+            if(opt==1) itemImage = new ImageIcon("images/e1.png");
+            else if(opt==2) itemImage = new ImageIcon("images/e2.png");
+            else if(opt==3) itemImage = new ImageIcon("images/e3.png");
+            else itemImage = new ImageIcon("images/e4.png");
         }
         else if(preference==3){ // Juices
-            if(opt==1) itemImage = new ImageIcon("f1.png");
-            else if(opt==2) itemImage = new ImageIcon("f2.png");
-            else if(opt==3) itemImage = new ImageIcon("f3.png");
-            else itemImage = new ImageIcon("f4.png");
+            if(opt==1) itemImage = new ImageIcon("images/f1.png");
+            else if(opt==2) itemImage = new ImageIcon("images/f2.png");
+            else if(opt==3) itemImage = new ImageIcon("images/f3.png");
+            else itemImage = new ImageIcon("images/f4.png");
         }
         else if(preference==4){ // Fruits
-            if(opt==1) itemImage = new ImageIcon("g1.png");
-            else if(opt==2) itemImage = new ImageIcon("g2.png");
-            else if(opt==3) itemImage = new ImageIcon("g3.png");
-            else itemImage = new ImageIcon("g4.png");
+            if(opt==1) itemImage = new ImageIcon("images/g1.png");
+            else if(opt==2) itemImage = new ImageIcon("images/g2.png");
+            else if(opt==3) itemImage = new ImageIcon("images/g3.png");
+            else itemImage = new ImageIcon("images/g4.png");
         }
         else { // Chocolates
-            if(opt==1) itemImage = new ImageIcon("K1.png");
-            else if(opt==2) itemImage = new ImageIcon("K2.png");
-            else if(opt==3) itemImage = new ImageIcon("K3.png");
-            else itemImage = new ImageIcon("K4.png");
+            if(opt==1) itemImage = new ImageIcon("images/K1.png");
+            else if(opt==2) itemImage = new ImageIcon("images/K2.png");
+            else if(opt==3) itemImage = new ImageIcon("images/K3.png");
+            else itemImage = new ImageIcon("images/K4.png");
         }
 
         imageLabel.setIcon(itemImage);
