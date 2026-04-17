@@ -48,38 +48,38 @@ else{setTitle("CHOCLATE AND SWEETS");}
 	
 
 if(preferance==1){
-i1 = new ImageIcon("d1.png");
-i2 = new ImageIcon("d2.png");
-i3 = new ImageIcon("d3.png");
-i4 = new ImageIcon("d4.png");
+i1 = new ImageIcon("images/d1.png");
+i2 = new ImageIcon("images/d2.png");
+i3 = new ImageIcon("images/d3.png");
+i4 = new ImageIcon("images/d4.png");
 
 }
 else if(preferance==2){
-i1 = new ImageIcon("e1.png");
-i2 = new ImageIcon("e2.png");
-i3 = new ImageIcon("e3.png");
-i4 = new ImageIcon("e4.png");
+i1 = new ImageIcon("images/e1.png");
+i2 = new ImageIcon("images/e2.png");
+i3 = new ImageIcon("images/e3.png");
+i4 = new ImageIcon("images/e4.png");
 
 }
 else if(preferance==3){
-i1 = new ImageIcon("f1.png");
-i2 = new ImageIcon("f2.png");
-i3 = new ImageIcon("f3.png");
-i4 = new ImageIcon("f4.png");
+i1 = new ImageIcon("images/f1.png");
+i2 = new ImageIcon("images/f2.png");
+i3 = new ImageIcon("images/f3.png");
+i4 = new ImageIcon("images/f4.png");
 
 }
 else if(preferance==4){
-i1 = new ImageIcon("g1.png");
-i2 = new ImageIcon("g2.png");
-i3 = new ImageIcon("g3.png");
-i4 = new ImageIcon("g4.png");
+i1 = new ImageIcon("images/g1.png");
+i2 = new ImageIcon("images/g2.png");
+i3 = new ImageIcon("images/g3.png");
+i4 = new ImageIcon("images/g4.png");
 
 }
 else{
-i1 = new ImageIcon("K1.png");
-i2 = new ImageIcon("K2.png");
-i3 = new ImageIcon("K3.png");
-i4 = new ImageIcon("K4.png");
+i1 = new ImageIcon("images/K1.png");
+i2 = new ImageIcon("images/K2.png");
+i3 = new ImageIcon("images/K3.png");
+i4 = new ImageIcon("images/K4.png");
 }
 
 
