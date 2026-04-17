@@ -36,13 +36,13 @@ This project is a desktop-based Food Delivery Application developed using Java S
 
 ## Screenshots
 
-screenshots/LoginPage.png
-screenshots/HomePage.png
-screenshots/CategoriesPage.png
-screenshots/DetailsPage.png
-screenshots/HelpPage.png
-screenshots/CartPage.png
-screenshots/AccountPage.png
+- screenshots/LoginPage.png
+- screenshots/HomePage.png
+- screenshots/CategoriesPage.png
+- screenshots/DetailsPage.png
+- screenshots/HelpPage.png
+- screenshots/CartPage.png
+- screenshots/AccountPage.png
 
 ## Note
 
